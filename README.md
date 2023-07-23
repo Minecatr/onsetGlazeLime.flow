@@ -1,6 +1,6 @@
-# 🎨 onsetGlaze
+# 🎨 onsetGlazeLime
 
-**onsetGlaze** is a theme for flow launcher with Acrylic/Glass effect customized to fit in with my [OnsetGlaze.nvim](https://github.com/abhidahal/OnsetGlaze.nvim) Colorscheme for nvim.
+**onsetGlazeLime** is a fork of **onsetGlaze** which is a theme for flow launcher with Acrylic/Glass effect customized to fit in with my [OnsetGlaze.nvim](https://github.com/abhidahal/OnsetGlaze.nvim) Colorscheme for nvim.
 
 ## 🖼️ Theme Dispaly
 
@@ -12,6 +12,7 @@
 
 - Acrylic/Glass effect background.
 - Curved layout.
+- Its green
 
 ## ⚙️ Installation
 
@@ -19,7 +20,7 @@
 
 ```Shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
-git clone git@github.com:abhidahal/onsetGlaze.flow.git .
+git clone git@github.com:abhidahal/onsetGlazeLime.flow.git .
 ```
 
 >Go to Flowlauncher setting>Theme and select OnsetGlaze as your theme.
