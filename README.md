@@ -25,5 +25,4 @@ git clone git@github.com:abhidahal/onsetGlazeLime.flow.git .
 
 >Go to Flowlauncher setting>Theme and select OnsetGlaze as your theme.
 
-<img src="https://user-images.githubusercontent.com/87414003/208308621-1c151998-c78f-4d08-9baa-5f52e2f4e1a7.png" alt="" width="800">
-![Screenshot 2023-07-23 104827](https://github.com/Minecatr/onsetGlazeLime.flow/assets/82689952/02ed587c-261d-4452-8e39-84bf0ea0e471)
+<img src="https://github.com/Minecatr/onsetGlazeLime.flow/assets/82689952/02ed587c-261d-4452-8e39-84bf0ea0e471" alt="" width="800">
