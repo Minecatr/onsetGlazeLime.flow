@@ -20,7 +20,7 @@
 
 ```Shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
-git clone git@github.com/Minecatr/onsetGlazeLime.flow.git .
+wget https://raw.githubusercontent.com/Minecatr/onsetGlazeLime.flow/main/Lime.xaml
 ```
 
 >Go to Flowlauncher setting>Theme and select OnsetGlaze as your theme.
