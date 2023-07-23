@@ -4,9 +4,9 @@
 
 ## 🖼️ Theme Display
 
-<img src="https://user-images.githubusercontent.com/87414003/208306465-e40cbb55-beb5-4b04-a1fc-6296ee3c6e83.png" alt="" width="800">
+<img src="https://github.com/Minecatr/onsetGlazeLime.flow/assets/82689952/c36543e5-e315-4fed-9b01-21b570986bea" alt="" width="800">
 
-<img src="https://user-images.githubusercontent.com/87414003/208306536-d6c59a88-c6e5-4cc3-a25e-a2a1b54e2867.png" alt="" width="800">
+<img src="https://github.com/Minecatr/onsetGlazeLime.flow/assets/82689952/8e31c940-72c9-4ff6-aea8-d195503b4a86" alt="" width="800">
 
 ## 🪄 Features
 
